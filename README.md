@@ -106,6 +106,7 @@ $ npm start (to start the server), or nodemon server
 - [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
 - [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Middleware module used in Node.js web applications to manage cookies
+- [Multer](https://www.npmjs.com/package/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. 
 - [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [express-validator](https://www.npmjs.com/package/express-validator) - Used in Node.js applications with the Express framework to validate data submitted by users (user input)
@@ -121,5 +122,5 @@ $ npm start (to start the server), or nodemon server
 - Portfolio: 
 - Github: 
 - Sponsor: 
-- Linkedin:www.linkedin.com/in/sergio-moncada-rivas-4ab877351
+- Linkedin:(https://www.linkedin.com/in/sergio-moncada-rivas-4ab877351/)
 - Email: :mailbox_with_mail:[sergiogmoncada@yahoo.com](mailto:sergiogmoncada@yahoo.com)
