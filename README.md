@@ -82,12 +82,10 @@ $ npm start (to start the server), or nodemon server
 ##  Key Features:
 
 - Admin Area
-- Add/Edit/Delete Products,categories,sales list, Users and Staff.
+- Add/Edit/Delete Packs,Users,Members,classes, sales.
 - User Authenication
 - Admin  Authenication
-- See Product List, category List, User LIst, Sales list
-- Only available the sales module and Admin Modules: product create, category module, users Module.
-
+- See Packs, classes, members, staff List.
 
 ##  Technologies used
 
@@ -95,7 +93,9 @@ $ npm start (to start the server), or nodemon server
 
 ####  Frontend 
 
-- [Angular 18.2.0](https://angular.io/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
+- [React 19.0.0](https://reactjs.io/) - JavaScript library that is used for building user interfaces specifically for single-page applications.
+- [[Next 15.0.2](https://https://nextjs.org//) - JavaScript - React - FrameWork that is used for building user interfaces specifically for single-page applications.
+- [[Redux-Toolkit](https://redux-toolkit.js.org/) - A predictable state container for JavaScript applications.
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.
 - [rxjs](https://angular.io/guide/rx-library) - Reactive Extensions Library for JavaScript.
 
