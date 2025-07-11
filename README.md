@@ -50,8 +50,10 @@ $ npm start (to start the server), or nodemon server
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 
 ##  🔌 Technologies used ✔️:
-![Static Badge](https://img.shields.io/badge/JavaScript--blue?style=flat&logo=JavaScript&label=JavaScript&labelColor=blue&color=white)
-![React](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/JavaScript--blue?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=auto&label=JavaScript&labelColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/React--green?style=for-the-badge&logo=react&logoColor=black&logoSize=auto&label=React%20Js&labelColor=lightgreen&color=black)
+![Static Badge](https://img.shields.io/badge/Next--gray?style=for-the-badge&logo=next.js&logoColor=black&logoSize=auto&label=Next%20Js&labelColor=aqua&color=black)
+![Static Badge](https://img.shields.io/badge/Redux-Toolkit--gray?style=for-the-badge&logo=redux&logoColor=black&logoSize=auto&label=Redux%20Toolkit&labelColor=lightbrown&color=black)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoDB%20-aqua?style=for-the-badge)
